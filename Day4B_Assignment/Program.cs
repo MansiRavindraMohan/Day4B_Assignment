@@ -10,8 +10,11 @@ namespace Day4B_Assignment
     {
         static void Main(string[] args)
         {
-            ArrayCount arrayCount = new ArrayCount();
-            arrayCount.MethodArrayCount();
+            //ArrayCount arrayCount = new ArrayCount();
+            //arrayCount.MethodArrayCount();
+
+            UniqueElement uniqueElement = new UniqueElement();
+            uniqueElement.UniqueElementMethod();
             Console.ReadLine();
         }
     }

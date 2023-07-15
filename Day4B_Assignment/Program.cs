@@ -22,8 +22,11 @@ namespace Day4B_Assignment
             //MinMax minMax = new MinMax();
             //minMax.MinMaxMethod();
 
-            Pattern pattern = new Pattern();
-            pattern.DisplayPattern();
+            //Pattern pattern = new Pattern();
+            //pattern.DisplayPattern();
+
+            ReverseString reverseString = new ReverseString();
+            reverseString.ReverseStringMethod();
             Console.ReadLine();
         }
     }

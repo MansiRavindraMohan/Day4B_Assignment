@@ -25,8 +25,11 @@ namespace Day4B_Assignment
             //Pattern pattern = new Pattern();
             //pattern.DisplayPattern();
 
-            ReverseString reverseString = new ReverseString();
-            reverseString.ReverseStringMethod();
+            //ReverseString reverseString = new ReverseString();
+            //reverseString.ReverseStringMethod();
+
+            SumOfDigits sumOfDigits = new SumOfDigits();
+            sumOfDigits.DigitMethod();
             Console.ReadLine();
         }
     }

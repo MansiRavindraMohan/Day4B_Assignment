@@ -16,8 +16,11 @@ namespace Day4B_Assignment
             //UniqueElement uniqueElement = new UniqueElement();
             //uniqueElement.UniqueElementMethod();
 
-            FrequencyOfArray frequencyOfArray = new FrequencyOfArray();
-            frequencyOfArray.MethodFrequency();
+            //FrequencyOfArray frequencyOfArray = new FrequencyOfArray();
+            //frequencyOfArray.MethodFrequency();
+
+            MinMax minMax = new MinMax();
+            minMax.MinMaxMethod();
             Console.ReadLine();
         }
     }

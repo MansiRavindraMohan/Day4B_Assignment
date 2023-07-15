@@ -46,6 +46,7 @@
     <Compile Include="ArrayCount.cs" />
     <Compile Include="FrequencyOfArray.cs" />
     <Compile Include="MinMax.cs" />
+    <Compile Include="Pattern.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UniqueElement.cs" />

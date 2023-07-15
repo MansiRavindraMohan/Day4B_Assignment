@@ -13,8 +13,11 @@ namespace Day4B_Assignment
             //ArrayCount arrayCount = new ArrayCount();
             //arrayCount.MethodArrayCount();
 
-            UniqueElement uniqueElement = new UniqueElement();
-            uniqueElement.UniqueElementMethod();
+            //UniqueElement uniqueElement = new UniqueElement();
+            //uniqueElement.UniqueElementMethod();
+
+            FrequencyOfArray frequencyOfArray = new FrequencyOfArray();
+            frequencyOfArray.MethodFrequency();
             Console.ReadLine();
         }
     }
